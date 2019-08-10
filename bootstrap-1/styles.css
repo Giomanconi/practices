@@ -1,7 +1,15 @@
 .example{
-    background: tomato;
     height: 300px;
     width: 1000px;
+}
+.color1{
+    background: tomato;
+}
+.color2{
+    background: palevioletred;
+}
+.color3{
+    background: slateblue;
 }
 .aside-column{
     hei
